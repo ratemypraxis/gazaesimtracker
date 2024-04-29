@@ -1,0 +1,68 @@
+[
+  {
+    "title": "7 October 2023",
+    "cardTitle": "Hamas' October 7 attack",
+    "cardDetailedText": "Internet disruptions began on the same day that intense military actions started",
+    "url": "https://www.aljazeera.com/news/2023/12/4/telecommunications-internet-down-in-gaza-as-israeli-strikes-intensify",
+    "media": {
+      "type": "IMAGE",
+      "source": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-12-01T075542Z_540129534_RC26O4AXDYVN_RTRMADP_3_ISRAEL-PALESTINIANS-1701417741.jpg?resize=770%2C513&quality=80"
+      }
+    }
+  },
+  {
+    "title": "27 October 2023",
+    "cardTitle": "Internet and phone services went down",
+    "cardDetailedText": "A report on this date confirmed a \"near-total internet blackout\" across Gaza, largely due to ongoing military actions and direct impacts on telecommunications infrastructure",
+    "url": "https://www.aljazeera.com/news/2023/10/27/israel-intensifies-gaza-bombardment-as-internet-and-phone-services-go-down",
+    "media": {
+      "type": "IMAGE",
+      "source": {
+        "url": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-27T180532Z_468557012_RC2614AUNO9L_RTRMADP_3_ISRAEL-PALESTINIANS-EXPLOSIONS-GAZA-BORDER-1698430114.jpg?resize=770%2C513&quality=80"
+      }
+    }
+  },
+  {
+    "title": "31 October 2024",
+    "cardTitle": "ISPs went offline",
+    "cardDetailedText": "By the end of October, nearly all ISPs in Gaza were either completely offline or experiencing severe disruptions. This was partly due to physical damage to infrastructure and power outages affecting internet service​",
+    "url": "https://www.accessnow.org/publication/palestine-unplugged/",
+    "media": {
+      "type": "IMAGE",
+      "source": {
+        "url": "https://www.accessnow.org/wp-content/uploads/2023/10/Gaza-ceasefire-advocacy-post-header.jpg"
+      }
+    }
+  },
+  {
+    "title": "1 November 2023",
+    "cardTitle": "Internet and telecommunications shutdown",
+    "cardDetailedText": "A complete shutdown of internet and telecommunications services occurred overnight, lasting approximately 8-9 hours. Services were briefly restored in the afternoon but went down again within an hour​",
+    "url": "https://www.accessnow.org/publication/palestine-unplugged/"
+  },
+  {
+    "title": "5 November 2023",
+    "cardTitle": "Internet disruption",
+    "cardDetailedText": "Another significant disruption occurred starting at 6:15 PM local time, with services resuming the following morning on November 6 around 9:18 AM​",
+    "url": "https://www.accessnow.org/publication/palestine-unplugged/"
+  },
+  {
+    "title": "7 November 2023",
+    "cardTitle": "Internet blackouts frequently",
+    "cardDetailedText": "This is at least the fourth time since the war started that Palestinians in Gaza have been completely shut off from the rest of the world. Despite these frequent and unpredictable disruptions, at least 33,000 people have stayed connected thanks to the grassroots efforts of people donating electronic sim cards.​",
+    "url": "https://www.accessnow.org/publication/palestine-unplugged/"
+  },
+  {
+    "title": "11 January 2024",
+    "cardTitle": "Internet blackouts",
+    "cardDetailedText": "The besieged territory has experienced nine full telecommunications blackouts since then, according to NetBlocks, a company that tracks internet connectivity. The blackout that began Jan. 11 and is still affecting the region as of this article’s writing has been the longest.​",
+    "url": "https://www.nbcnews.com/tech/tech-news/esim-card-gaza-palestine-israel-war-hamas-rcna134498",
+    "media": {
+      "type": "IMAGE",
+      "source": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2024-01/240118-gaza-destruction-ew-200p-d41bf0.jpg"
+      }
+    }
+  }
+]
